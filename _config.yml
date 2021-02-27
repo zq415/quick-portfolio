@@ -4,9 +4,9 @@ description: > # your text below (remove <br> elements if you don't need line br
   I am currently a 4th Year PH.D. Student at NYU ECE department. My Research Interests are: Computer Vision, Machine Learning and Image Analysis.  
   <br><br>
   <a href="https://www.linkedin.com/in/ziming-qiu-045642161/">LinkedIn Profile</a>
-  <br><br>
+  <br>
   <a href="https://scholar.google.com/citations?user=qaCIB_QAAAAJ&hl=en">Google Scholar</a>
-  <br><br>
+  <br>
   <a href="/pdf/ziming_qiu_cv.pdf">Resume</a>
   
 theme: jekyll-theme-minimal
