@@ -12,13 +12,10 @@
 <img src="images/salient_map.png?raw=true"/>
 
 
-### Category Name 2
+### Natural Image Analysis
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+[Camera Pose Estimation](/sample_page)
+<img src="images/SystemOverview_v3.png?raw=true"/>
 
 ---
 
