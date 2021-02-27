@@ -1,6 +1,11 @@
 ## Projects
 
 ---
+### Natural Image Analysis
+
+[Camera Pose Estimation](/sample_page)
+<img src="images/SystemOverview_v3.png?raw=true"/>
+
 
 ### Medical Image Analysis
 
@@ -11,11 +16,6 @@
 [Classification and Visualization](/sample_page)
 <img src="images/salient_map.png?raw=true"/>
 
-
-### Natural Image Analysis
-
-[Camera Pose Estimation](/sample_page)
-<img src="images/SystemOverview_v3.png?raw=true"/>
 
 ---
 
