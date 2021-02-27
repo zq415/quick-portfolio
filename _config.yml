@@ -1,11 +1,13 @@
 title: Ziming Qiu # your name (or website title) here
 logo: "/images/personal.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  First description 
+  4th Year PH.D. Student at NYU ECE. 
   <br><br>
-  Second description 
+  Research Interests: Computer Vision, Machine Learning and Image Analysis.  
   <br><br>
-  <a href="https://www.linkedin.com/in/ziming-qiu-045642161/">View My LinkedIn Profile</a> 
+  <a href="https://www.linkedin.com/in/ziming-qiu-045642161/">View LinkedIn Profile</a>
+  <br><br>
+  <a href="https://drive.google.com/file/d/1cRlBXfdWNX9p6MGCgXGFWrNcKP4Q5GKK/view?usp=sharing">View Resume</a>
   
-theme: jekyll-theme-minimal
+theme: ziming-theme-minimal
 google_analytics: UA-000000-0 # your Google Analytics tracking ID here
